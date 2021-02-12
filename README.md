@@ -1,5 +1,5 @@
 # ERC20 bridge
-Video: https://drive.google.com/file/d/1hUrZfaVp5nfbDdN6yIKPa59W2_WsAkir/view?usp=sharing
+Video: https://www.youtube.com/watch?v=GQPdeEDtv1c
 
 
 Ethereum address: 0xf39b8940c10a6D105E288734cbd1Ea740D4DB6d5
